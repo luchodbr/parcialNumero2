@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1530227136 source:/home/alumno/Escritorio/SEGUNDO_PARCIAL/Ejercicio2doParcial/ArrayList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1530225435 /home/alumno/Escritorio/SEGUNDO_PARCIAL/Ejercicio2doParcial/ArrayList.h
+
+1530227528 source:/home/alumno/Escritorio/SEGUNDO_PARCIAL/Ejercicio2doParcial/Empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Empleado.h"
+
+1530224093 /home/alumno/Escritorio/SEGUNDO_PARCIAL/Ejercicio2doParcial/Empleado.h
+
+1530227398 source:/home/alumno/Escritorio/SEGUNDO_PARCIAL/Ejercicio2doParcial/Parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Empleado.h"
+
+1530227189 source:/home/alumno/Escritorio/SEGUNDO_PARCIAL/Ejercicio2doParcial/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Empleado.h"
+	"ArrayList.h"
+	"Parser.h"
+
+1530222297 /home/alumno/Escritorio/SEGUNDO_PARCIAL/Ejercicio2doParcial/Parser.h
+	"ArrayList.h"
+
+1530227725 source:/media/alumno/Mati/utn/SEGUNDO_PARCIAL/Ejercicio2doParcial/ArrayList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1530227775 /media/alumno/Mati/utn/SEGUNDO_PARCIAL/Ejercicio2doParcial/ArrayList.h
+
+1530227528 source:/media/alumno/Mati/utn/SEGUNDO_PARCIAL/Ejercicio2doParcial/Empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Empleado.h"
+
+1530224093 /media/alumno/Mati/utn/SEGUNDO_PARCIAL/Ejercicio2doParcial/Empleado.h
+
+1530227398 source:/media/alumno/Mati/utn/SEGUNDO_PARCIAL/Ejercicio2doParcial/Parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Empleado.h"
+
+1530227620 source:/media/alumno/Mati/utn/SEGUNDO_PARCIAL/Ejercicio2doParcial/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Empleado.h"
+	"ArrayList.h"
+	"Parser.h"
+
+1530222297 /media/alumno/Mati/utn/SEGUNDO_PARCIAL/Ejercicio2doParcial/Parser.h
+	"ArrayList.h"
+
